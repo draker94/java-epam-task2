@@ -4,7 +4,6 @@ import by.training.console.ComplexUnitInfo;
 import by.training.domain.Sentence;
 import by.training.domain.Text;
 import by.training.domain.abstractions.LanguageUnit;
-
 import java.io.*;
 import java.util.List;
 
@@ -17,8 +16,10 @@ public class FileIO {
             while ((str = bufferedReader.readLine()) != null) {
                 stringBuilder.append(str);
             }
+            System.out.println("Текст успешно загружен");
             return new Text(stringBuilder.toString());
         } catch (IOException e) {
+            System.out.println("Во время загрузки текста произошла ошибка!");
             e.printStackTrace();
             return null;
         }
@@ -27,17 +28,19 @@ public class FileIO {
     public void write(String path, List<LanguageUnit> sentences, boolean isDuplicate) {
         try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(path))) {
             if (isDuplicate) {
+                bufferedWriter.write("Предложения текста, в которых есть одинаковые слова: " + System.lineSeparator());
                 for (LanguageUnit unit : sentences) {
-                    bufferedWriter.write(unit.getUnitString());
-                    bufferedWriter.write(System.lineSeparator());
+                    bufferedWriter.write(unit.getUnitString() + System.lineSeparator());
                 }
             }
             else {
+                bufferedWriter.write("Разбор предложения по языковым единицам: " + System.lineSeparator());
                 for (LanguageUnit unit : sentences) {
                     bufferedWriter.write(ComplexUnitInfo.printFullInfo((Sentence)unit));
                 }
             }
         } catch (IOException e) {
+            System.out.println("Во время записи текста в файл произошла ошибка!");
             e.printStackTrace();
         }
     }
