@@ -6,7 +6,6 @@ import java.util.regex.Pattern;
 
 
 public class PunctuationMark extends SimpleUnit {
-
     public PunctuationMark(char punctuationMark) {
         if (Pattern.matches("\\p{Punct}", Character.toString(punctuationMark))) {
             unit = punctuationMark;
@@ -17,7 +16,6 @@ public class PunctuationMark extends SimpleUnit {
     }
 
     public static boolean isPunctuationMark(String str) {
-       return Pattern.matches("\\p{Punct}", str);
+        return Pattern.matches("\\p{Punct}", str);
     }
-
 }

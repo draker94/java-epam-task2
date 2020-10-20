@@ -1,1164 +1,213 @@
-Предложение: RapunzelA long time ago, a husband and wife lived happily in a cottage at the edge of a wood. 
+Разбор предложения по языковым единицам: 
+Предложение: ﻿Location: Polotsk, Vitebsk Region  E-MAIL: dreadnought1125@gmail.com  PHONE: +375(29)814-38-18  Skype: live:.cid.36ba3112f572f7d6  DATE OF BIRTH: 31.03.1994  MARITAL STATUS: single    8+ of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. 
 Состоит из следующих языковых единиц:
-RapunzelA - Слово.
-long - Слово.
-time - Слово.
-ago - Слово.
+Location - Слово.
+: - Знак пунктуации.
+Polotsk - Слово.
 , - Знак пунктуации.
-a - Слово.
-husband - Слово.
-and - Слово.
-wife - Слово.
-lived - Слово.
-happily - Слово.
-in - Слово.
-a - Слово.
-cottage - Слово.
-at - Слово.
-the - Слово.
-edge - Слово.
+Vitebsk - Слово.
+Region - Слово.
+E-MAIL - Слово.
+: - Знак пунктуации.
+dreadnought1125@gmail.com - Слово.
+PHONE - Слово.
+: - Знак пунктуации.
++375(29)814-38-18 - Слово.
+Skype - Слово.
+: - Знак пунктуации.
+live - Слово.
+: - Знак пунктуации.
+. - Знак пунктуации.
+cid - Слово.
+. - Знак пунктуации.
+36ba3112f572f7d6 - Слово.
+DATE - Слово.
+OF - Слово.
+BIRTH - Слово.
+: - Знак пунктуации.
+31 - Слово.
+. - Знак пунктуации.
+03 - Слово.
+. - Знак пунктуации.
+1994 - Слово.
+MARITAL - Слово.
+STATUS - Слово.
+: - Знак пунктуации.
+single - Слово.
+8 - Слово.
 of - Слово.
-a - Слово.
-wood - Слово.
-. - Знак пунктуации.
-Предложение: But one day the wife fell ill. 
-Состоит из следующих языковых единиц:
-But - Слово.
-one - Слово.
-day - Слово.
-the - Слово.
-wife - Слово.
-fell - Слово.
-ill - Слово.
-. - Знак пунктуации.
-Предложение: She could eat nothing and grew thinner and thinner. 
-Состоит из следующих языковых единиц:
-She - Слово.
-could - Слово.
-eat - Слово.
-nothing - Слово.
-and - Слово.
-grew - Слово.
-thinner - Слово.
-and - Слово.
-thinner - Слово.
-. - Знак пунктуации.
-Предложение: The only thing that could cure her, she believed, was a strange herb that grew in the beautiful garden next to their cottage. 
-Состоит из следующих языковых единиц:
-The - Слово.
-only - Слово.
-thing - Слово.
-that - Слово.
-could - Слово.
-cure - Слово.
-her - Слово.
-, - Знак пунктуации.
-she - Слово.
-believed - Слово.
-, - Знак пунктуации.
-was - Слово.
-a - Слово.
-strange - Слово.
-herb - Слово.
-that - Слово.
-grew - Слово.
-in - Слово.
-the - Слово.
-beautiful - Слово.
-garden - Слово.
-next - Слово.
-to - Слово.
-their - Слово.
-cottage - Слово.
-. - Знак пунктуации.
-Предложение: She begged her husband to find a way into the garden and steal some of this herb, which was called rapunzel.Now this garden belonged to a wicked witch, who used it to grow herbs for her spells.One day, she caught the husband creeping into her garden. 
-Состоит из следующих языковых единиц:
-She - Слово.
-begged - Слово.
-her - Слово.
-husband - Слово.
-to - Слово.
-find - Слово.
-a - Слово.
-way - Слово.
-into - Слово.
-the - Слово.
-garden - Слово.
-and - Слово.
-steal - Слово.
-some - Слово.
-of - Слово.
-this - Слово.
-herb - Слово.
-, - Знак пунктуации.
-which - Слово.
-was - Слово.
-called - Слово.
-rapunzel - Слово.
-. - Знак пунктуации.
-Now - Слово.
-this - Слово.
-garden - Слово.
-belonged - Слово.
-to - Слово.
-a - Слово.
-wicked - Слово.
-witch - Слово.
-, - Знак пунктуации.
-who - Слово.
-used - Слово.
-it - Слово.
-to - Слово.
-grow - Слово.
-herbs - Слово.
-for - Слово.
-her - Слово.
-spells - Слово.
-. - Знак пунктуации.
-One - Слово.
-day - Слово.
-, - Знак пунктуации.
-she - Слово.
-caught - Слово.
-the - Слово.
-husband - Слово.
-creeping - Слово.
-into - Слово.
-her - Слово.
-garden - Слово.
-. - Знак пунктуации.
-Предложение: When he told her what he had come for, the witch gave him some rapunzel but she made him promise to give her their first-born child in return. 
-Состоит из следующих языковых единиц:
-When - Слово.
-he - Слово.
-told - Слово.
-her - Слово.
-what - Слово.
-he - Слово.
-had - Слово.
-come - Слово.
-for - Слово.
-, - Знак пунктуации.
-the - Слово.
-witch - Слово.
-gave - Слово.
-him - Слово.
-some - Слово.
-rapunzel - Слово.
-but - Слово.
-she - Слово.
-made - Слово.
-him - Слово.
-promise - Слово.
-to - Слово.
-give - Слово.
-her - Слово.
-their - Слово.
-first-born - Слово.
-child - Слово.
-in - Слово.
-return - Слово.
-. - Знак пунктуации.
-Предложение: The husband agreed, thinking that the witch would soon forget the promise. 
-Состоит из следующих языковых единиц:
-The - Слово.
-husband - Слово.
-agreed - Слово.
-, - Знак пунктуации.
-thinking - Слово.
-that - Слово.
-the - Слово.
-witch - Слово.
-would - Слово.
-soon - Слово.
-forget - Слово.
-the - Слово.
-promise - Слово.
-. - Знак пунктуации.
-Предложение: He took the rapunzel back to his wife, who felt better as soon as she had eaten it.A year later, a baby girl was born and the witch did come and take her away. 
-Состоит из следующих языковых единиц:
-He - Слово.
-took - Слово.
-the - Слово.
-rapunzel - Слово.
-back - Слово.
-to - Слово.
-his - Слово.
-wife - Слово.
-, - Знак пунктуации.
-who - Слово.
-felt - Слово.
-better - Слово.
-as - Слово.
-soon - Слово.
-as - Слово.
-she - Слово.
-had - Слово.
-eaten - Слово.
-it - Слово.
-. - Знак пунктуации.
-A - Слово.
-year - Слово.
-later - Слово.
-, - Знак пунктуации.
-a - Слово.
-baby - Слово.
-girl - Слово.
-was - Слово.
-born - Слово.
-and - Слово.
-the - Слово.
-witch - Слово.
-did - Слово.
-come - Слово.
-and - Слово.
-take - Слово.
-her - Слово.
-away - Слово.
-. - Знак пунктуации.
-Предложение: She told the couple they would be able to see their daughter in the garden behind their house. 
-Состоит из следующих языковых единиц:
-She - Слово.
-told - Слово.
-the - Слово.
-couple - Слово.
-they - Слово.
-would - Слово.
-be - Слово.
-able - Слово.
-to - Слово.
-see - Слово.
-their - Слово.
-daughter - Слово.
-in - Слово.
-the - Слово.
-garden - Слово.
-behind - Слово.
-their - Слово.
-house - Слово.
-. - Знак пунктуации.
-Предложение: Over the years they were able to watch her grow up into a beautiful child with long fair hair. 
-Состоит из следующих языковых единиц:
-Over - Слово.
-the - Слово.
-years - Слово.
-they - Слово.
-were - Слово.
-able - Слово.
-to - Слово.
-watch - Слово.
-her - Слово.
-grow - Слово.
-up - Слово.
-into - Слово.
-a - Слово.
-beautiful - Слово.
-child - Слово.
+experience - Слово.
+facilitating - Слово.
+cutting-edge - Слово.
+engineering - Слово.
+solutions - Слово.
 with - Слово.
-long - Слово.
-fair - Слово.
-hair - Слово.
-. - Знак пунктуации.
-Предложение: The witch called her Rapunzel after the plant her father had come to take.When she was twelve years old, the witch decided to lock Rapunzel up in a high tower in case she tried to run away. 
-Состоит из следующих языковых единиц:
-The - Слово.
-witch - Слово.
-called - Слово.
-her - Слово.
-Rapunzel - Слово.
-after - Слово.
-the - Слово.
-plant - Слово.
-her - Слово.
-father - Слово.
-had - Слово.
-come - Слово.
-to - Слово.
-take - Слово.
-. - Знак пунктуации.
-When - Слово.
-she - Слово.
-was - Слово.
-twelve - Слово.
-years - Слово.
-old - Слово.
-, - Знак пунктуации.
-the - Слово.
-witch - Слово.
-decided - Слово.
-to - Слово.
-lock - Слово.
-Rapunzel - Слово.
-up - Слово.
-in - Слово.
 a - Слово.
-high - Слово.
-tower - Слово.
+wide - Слово.
+range - Слово.
+of - Слово.
+e-commerce - Слово.
+application - Слово.
+and - Слово.
+technology - Слово.
+skills - Слово.
+. - Знак пунктуации.
+Предложение: Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. 
+Состоит из следующих языковых единиц:
+Proven - Слово.
+ability - Слово.
+to - Слово.
+leverage - Слово.
+full-stack - Слово.
+knowledge - Слово.
+and - Слово.
+experience - Слово.
+to - Слово.
+build - Слово.
+interactive - Слово.
+and - Слово.
+user-centered - Слово.
+website - Слово.
+designs - Слово.
+to - Слово.
+scale - Слово.
+. - Знак пунктуации.
+Предложение: Extensive expertise in large system architecture development and administration, as well as network design and configuration.    
+Состоит из следующих языковых единиц:
+Extensive - Слово.
+expertise - Слово.
 in - Слово.
-case - Слово.
-she - Слово.
-tried - Слово.
-to - Слово.
-run - Слово.
-away - Слово.
-. - Знак пунктуации.
-Предложение: The tower had no door or staircase but Rapunzel was quite happy up there as she could sit at the window watching the life of the forest and talking to the birds. 
-Состоит из следующих языковых единиц:
-The - Слово.
-tower - Слово.
-had - Слово.
-no - Слово.
-door - Слово.
-or - Слово.
-staircase - Слово.
-but - Слово.
-Rapunzel - Слово.
-was - Слово.
-quite - Слово.
-happy - Слово.
-up - Слово.
-there - Слово.
-as - Слово.
-she - Слово.
-could - Слово.
-sit - Слово.
-at - Слово.
-the - Слово.
-window - Слово.
-watching - Слово.
-the - Слово.
-life - Слово.
-of - Слово.
-the - Слово.
-forest - Слово.
+large - Слово.
+system - Слово.
+architecture - Слово.
+development - Слово.
 and - Слово.
-talking - Слово.
-to - Слово.
-the - Слово.
-birds - Слово.
-. - Знак пунктуации.
-Предложение: Yet sometimes she would sigh, for she longed to be back in the beautiful garden where she could run and skip in the sunshine. 
-Состоит из следующих языковых единиц:
-Yet - Слово.
-sometimes - Слово.
-she - Слово.
-would - Слово.
-sigh - Слово.
-, - Знак пунктуации.
-for - Слово.
-she - Слово.
-longed - Слово.
-to - Слово.
-be - Слово.
-back - Слово.
-in - Слово.
-the - Слово.
-beautiful - Слово.
-garden - Слово.
-where - Слово.
-she - Слово.
-could - Слово.
-run - Слово.
-and - Слово.
-skip - Слово.
-in - Слово.
-the - Слово.
-sunshine - Слово.
-. - Знак пунктуации.
-Предложение: Then she would sing to cheer herself up.Each day, the witch came to see her, bringing fresh food. 
-Состоит из следующих языковых единиц:
-Then - Слово.
-she - Слово.
-would - Слово.
-sing - Слово.
-to - Слово.
-cheer - Слово.
-herself - Слово.
-up - Слово.
-. - Знак пунктуации.
-Each - Слово.
-day - Слово.
-, - Знак пунктуации.
-the - Слово.
-witch - Слово.
-came - Слово.
-to - Слово.
-see - Слово.
-her - Слово.
-, - Знак пунктуации.
-bringing - Слово.
-fresh - Слово.
-food - Слово.
-. - Знак пунктуации.
-Предложение: She would stand at the bottom of the tower and call out,"Rapunzel, Rapunzel, let down your long hair."
-Состоит из следующих языковых единиц:
-She - Слово.
-would - Слово.
-stand - Слово.
-at - Слово.
-the - Слово.
-bottom - Слово.
-of - Слово.
-the - Слово.
-tower - Слово.
-and - Слово.
-call - Слово.
-out - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-let - Слово.
-down - Слово.
-your - Слово.
-long - Слово.
-hair - Слово.
-. - Знак пунктуации.
-" - Знак пунктуации.
-Предложение: Rapunzel, whose long golden hair was plaited, would twist it round one of the bars and drop it out of the window, and the witch would climb up it. 
-Состоит из следующих языковых единиц:
-Rapunzel - Слово.
-, - Знак пунктуации.
-whose - Слово.
-long - Слово.
-golden - Слово.
-hair - Слово.
-was - Слово.
-plaited - Слово.
-, - Знак пунктуации.
-would - Слово.
-twist - Слово.
-it - Слово.
-round - Слово.
-one - Слово.
-of - Слово.
-the - Слово.
-bars - Слово.
-and - Слово.
-drop - Слово.
-it - Слово.
-out - Слово.
-of - Слово.
-the - Слово.
-window - Слово.
-, - Знак пунктуации.
-and - Слово.
-the - Слово.
-witch - Слово.
-would - Слово.
-climb - Слово.
-up - Слово.
-it - Слово.
-. - Знак пунктуации.
-Предложение: When she left, Rapunzel would let down her golden hair again, and the witch would slide nimbly down to the ground. 
-Состоит из следующих языковых единиц:
-When - Слово.
-she - Слово.
-left - Слово.
-, - Знак пунктуации.
-Rapunzel - Слово.
-would - Слово.
-let - Слово.
-down - Слово.
-her - Слово.
-golden - Слово.
-hair - Слово.
-again - Слово.
-, - Знак пунктуации.
-and - Слово.
-the - Слово.
-witch - Слово.
-would - Слово.
-slide - Слово.
-nimbly - Слово.
-down - Слово.
-to - Слово.
-the - Слово.
-ground - Слово.
-. - Знак пунктуации.
-Предложение: One day, the king's son was riding through the forest when he heard Rapunzel singing. 
-Состоит из следующих языковых единиц:
-One - Слово.
-day - Слово.
-, - Знак пунктуации.
-the - Слово.
-king's - Слово.
-son - Слово.
-was - Слово.
-riding - Слово.
-through - Слово.
-the - Слово.
-forest - Слово.
-when - Слово.
-he - Слово.
-heard - Слово.
-Rapunzel - Слово.
-singing - Слово.
-. - Знак пунктуации.
-Предложение: Mystified, he rode to the tower but could see any door, so could not understand how anyone could be there. 
-Состоит из следующих языковых единиц:
-Mystified - Слово.
-, - Знак пунктуации.
-he - Слово.
-rode - Слово.
-to - Слово.
-the - Слово.
-tower - Слово.
-but - Слово.
-could - Слово.
-see - Слово.
-any - Слово.
-door - Слово.
-, - Знак пунктуации.
-so - Слово.
-could - Слово.
-not - Слово.
-understand - Слово.
-how - Слово.
-anyone - Слово.
-could - Слово.
-be - Слово.
-there - Слово.
-. - Знак пунктуации.
-Предложение: He decided to stay and watch the tower and listen to the singing. 
-Состоит из следующих языковых единиц:
-He - Слово.
-decided - Слово.
-to - Слово.
-stay - Слово.
-and - Слово.
-watch - Слово.
-the - Слово.
-tower - Слово.
-and - Слово.
-listen - Слово.
-to - Слово.
-the - Слово.
-singing - Слово.
-. - Знак пунктуации.
-Предложение: After a while the witch came along and the prince watched her carefully. 
-Состоит из следующих языковых единиц:
-After - Слово.
-a - Слово.
-while - Слово.
-the - Слово.
-witch - Слово.
-came - Слово.
-along - Слово.
-and - Слово.
-the - Слово.
-prince - Слово.
-watched - Слово.
-her - Слово.
-carefully - Слово.
-. - Знак пунктуации.
-Предложение: In his amazement, as she called out,"Rapunzel, Rapunzel, let down your long hair," a long golden plait of hair fell almost to the ground. 
-Состоит из следующих языковых единиц:
-In - Слово.
-his - Слово.
-amazement - Слово.
+administration - Слово.
 , - Знак пунктуации.
 as - Слово.
-she - Слово.
-called - Слово.
-out - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-let - Слово.
-down - Слово.
-your - Слово.
-long - Слово.
-hair - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-a - Слово.
-long - Слово.
-golden - Слово.
-plait - Слово.
-of - Слово.
-hair - Слово.
-fell - Слово.
-almost - Слово.
-to - Слово.
-the - Слово.
-ground - Слово.
-. - Знак пунктуации.
-Предложение: The prince saw the witch climb up the hair and disappear through the window, and he made up his mind he would wait until she had gone and see if he could do the same.So after the witch had gone, he stood where the witch had been and called,"Rapunzel, Rapunzel, let down your long hair."
-Состоит из следующих языковых единиц:
-The - Слово.
-prince - Слово.
-saw - Слово.
-the - Слово.
-witch - Слово.
-climb - Слово.
-up - Слово.
-the - Слово.
-hair - Слово.
-and - Слово.
-disappear - Слово.
-through - Слово.
-the - Слово.
-window - Слово.
-, - Знак пунктуации.
-and - Слово.
-he - Слово.
-made - Слово.
-up - Слово.
-his - Слово.
-mind - Слово.
-he - Слово.
-would - Слово.
-wait - Слово.
-until - Слово.
-she - Слово.
-had - Слово.
-gone - Слово.
-and - Слово.
-see - Слово.
-if - Слово.
-he - Слово.
-could - Слово.
-do - Слово.
-the - Слово.
-same - Слово.
-. - Знак пунктуации.
-So - Слово.
-after - Слово.
-the - Слово.
-witch - Слово.
-had - Слово.
-gone - Слово.
-, - Знак пунктуации.
-he - Слово.
-stood - Слово.
-where - Слово.
-the - Слово.
-witch - Слово.
-had - Слово.
-been - Слово.
-and - Слово.
-called - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-let - Слово.
-down - Слово.
-your - Слово.
-long - Слово.
-hair - Слово.
-. - Знак пунктуации.
-" - Знак пунктуации.
-Предложение: When the golden plait came tumbling down, he climbed up as the witch had done and found to his astonishment the most beautiful girl he had ever seen. 
-Состоит из следующих языковых единиц:
-When - Слово.
-the - Слово.
-golden - Слово.
-plait - Слово.
-came - Слово.
-tumbling - Слово.
-down - Слово.
-, - Знак пунктуации.
-he - Слово.
-climbed - Слово.
-up - Слово.
+well - Слово.
 as - Слово.
-the - Слово.
-witch - Слово.
-had - Слово.
-done - Слово.
+network - Слово.
+design - Слово.
 and - Слово.
-found - Слово.
-to - Слово.
-his - Слово.
-astonishment - Слово.
-the - Слово.
-most - Слово.
-beautiful - Слово.
-girl - Слово.
-he - Слово.
-had - Слово.
-ever - Слово.
-seen - Слово.
+configuration - Слово.
 . - Знак пунктуации.
-Предложение: They talked for a long time and then the prince left, promising to come again. 
+Предложение: SENIOR PROGRAMMER.  
 Состоит из следующих языковых единиц:
-They - Слово.
-talked - Слово.
-for - Слово.
-a - Слово.
-long - Слово.
-time - Слово.
-and - Слово.
-then - Слово.
-the - Слово.
-prince - Слово.
-left - Слово.
+SENIOR - Слово.
+PROGRAMMER - Слово.
+. - Знак пунктуации.
+Предложение: E-Commerce Agency / San Bruno, CA / June 2010 – August 2013. 
+Состоит из следующих языковых единиц:
+E-Commerce - Слово.
+Agency - Слово.
+/ - Знак пунктуации.
+San - Слово.
+Bruno - Слово.
 , - Знак пунктуации.
-promising - Слово.
-to - Слово.
-come - Слово.
-again - Слово.
+CA - Слово.
+/ - Знак пунктуации.
+June - Слово.
+2010 - Слово.
+– - Слово.
+August - Слово.
+2013 - Слово.
 . - Знак пунктуации.
-Предложение: Rapunzel looked forward to his visits, for she had been lonely. 
+Предложение: Successfully generated back-end programming utilizing LAMP stack; Linux (CentOS 5/Redhat), Apache with Kohana 2, PHP 5, CSS, JavaScript/jQuery, and MySQL frameworks.Created e-commerce sites integrated with PayPal, Authorize.net, and other payment APIs.  
 Состоит из следующих языковых единиц:
-Rapunzel - Слово.
-looked - Слово.
-forward - Слово.
-to - Слово.
-his - Слово.
-visits - Слово.
+Successfully - Слово.
+generated - Слово.
+back-end - Слово.
+programming - Слово.
+utilizing - Слово.
+LAMP - Слово.
+stack - Слово.
+; - Знак пунктуации.
+Linux - Слово.
+( - Знак пунктуации.
+CentOS - Слово.
+5/Redhat - Слово.
+) - Знак пунктуации.
 , - Знак пунктуации.
-for - Слово.
-she - Слово.
-had - Слово.
-been - Слово.
-lonely - Слово.
-. - Знак пунктуации.
-Предложение: He told her all about the world outside her tower and they fell deeply in love.One day Rapunzel said to the witch, "Why is it when you climb up my hair you are so heavy? 
-Состоит из следующих языковых единиц:
-He - Слово.
-told - Слово.
-her - Слово.
-all - Слово.
-about - Слово.
-the - Слово.
-world - Слово.
-outside - Слово.
-her - Слово.
-tower - Слово.
-and - Слово.
-they - Слово.
-fell - Слово.
-deeply - Слово.
-in - Слово.
-love - Слово.
-. - Знак пунктуации.
-One - Слово.
-day - Слово.
-Rapunzel - Слово.
-said - Слово.
-to - Слово.
-the - Слово.
-witch - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-Why - Слово.
-is - Слово.
-it - Слово.
-when - Слово.
-you - Слово.
-climb - Слово.
-up - Слово.
-my - Слово.
-hair - Слово.
-you - Слово.
-are - Слово.
-so - Слово.
-heavy - Слово.
-? - Знак пунктуации.
-Предложение: The handsome prince who comes is much lighter than you." 
-Состоит из следующих языковых единиц:
-The - Слово.
-handsome - Слово.
-prince - Слово.
-who - Слово.
-comes - Слово.
-is - Слово.
-much - Слово.
-lighter - Слово.
-than - Слово.
-you - Слово.
-. - Знак пунктуации.
-" - Знак пунктуации.
-Предложение: At this, the witch flew into a rage and took Rapunzel out of the tower and led her into the forest to a lonely spot and told her she must stay there without food or shelter. 
-Состоит из следующих языковых единиц:
-At - Слово.
-this - Слово.
-, - Знак пунктуации.
-the - Слово.
-witch - Слово.
-flew - Слово.
-into - Слово.
-a - Слово.
-rage - Слово.
-and - Слово.
-took - Слово.
-Rapunzel - Слово.
-out - Слово.
-of - Слово.
-the - Слово.
-tower - Слово.
-and - Слово.
-led - Слово.
-her - Слово.
-into - Слово.
-the - Слово.
-forest - Слово.
-to - Слово.
-a - Слово.
-lonely - Слово.
-spot - Слово.
-and - Слово.
-told - Слово.
-her - Слово.
-she - Слово.
-must - Слово.
-stay - Слово.
-there - Слово.
-without - Слово.
-food - Слово.
-or - Слово.
-shelter - Слово.
-. - Знак пунктуации.
-Предложение: The witch cut off Rapunzel's hair and then hurried back to the tower with the long plait of golden hair.That evening when the prince came by, he called out as usual,"Rapunzel, Rapunzel, let down your long hair."
-Состоит из следующих языковых единиц:
-The - Слово.
-witch - Слово.
-cut - Слово.
-off - Слово.
-Rapunzel's - Слово.
-hair - Слово.
-and - Слово.
-then - Слово.
-hurried - Слово.
-back - Слово.
-to - Слово.
-the - Слово.
-tower - Слово.
+Apache - Слово.
 with - Слово.
-the - Слово.
-long - Слово.
-plait - Слово.
-of - Слово.
-golden - Слово.
-hair - Слово.
-. - Знак пунктуации.
-That - Слово.
-evening - Слово.
-when - Слово.
-the - Слово.
-prince - Слово.
-came - Слово.
-by - Слово.
+Kohana - Слово.
+2 - Слово.
 , - Знак пунктуации.
-he - Слово.
-called - Слово.
-out - Слово.
+PHP - Слово.
+5 - Слово.
+, - Знак пунктуации.
+CSS - Слово.
+, - Знак пунктуации.
+JavaScript/jQuery - Слово.
+, - Знак пунктуации.
+and - Слово.
+MySQL - Слово.
+frameworks - Слово.
+. - Знак пунктуации.
+Created - Слово.
+e-commerce - Слово.
+sites - Слово.
+integrated - Слово.
+with - Слово.
+PayPal - Слово.
+, - Знак пунктуации.
+Authorize - Слово.
+. - Знак пунктуации.
+net - Слово.
+, - Знак пунктуации.
+and - Слово.
+other - Слово.
+payment - Слово.
+APIs - Слово.
+. - Знак пунктуации.
+Предложение: Provided leadership as a subject matter expert (SME) on hosting issues, client and staff logins, and general upgrades/maintenance of servers.  
+Состоит из следующих языковых единиц:
+Provided - Слово.
+leadership - Слово.
 as - Слово.
-usual - Слово.
+a - Слово.
+subject - Слово.
+matter - Слово.
+expert - Слово.
+( - Знак пунктуации.
+SME - Слово.
+) - Знак пунктуации.
+on - Слово.
+hosting - Слово.
+issues - Слово.
 , - Знак пунктуации.
-" - Знак пунктуации.
-Rapunzel - Слово.
+client - Слово.
+and - Слово.
+staff - Слово.
+logins - Слово.
 , - Знак пунктуации.
-Rapunzel - Слово.
-, - Знак пунктуации.
-let - Слово.
-down - Слово.
-your - Слово.
-long - Слово.
-hair - Слово.
-. - Знак пунктуации.
-" - Знак пунктуации.
-Предложение: The witch, who had secured the plait of golden hair inside the window, threw it down. 
-Состоит из следующих языковых единиц:
-The - Слово.
-witch - Слово.
-, - Знак пунктуации.
-who - Слово.
-had - Слово.
-secured - Слово.
-the - Слово.
-plait - Слово.
+and - Слово.
+general - Слово.
+upgrades/maintenance - Слово.
 of - Слово.
-golden - Слово.
-hair - Слово.
-inside - Слово.
-the - Слово.
-window - Слово.
-, - Знак пунктуации.
-threw - Слово.
-it - Слово.
-down - Слово.
+servers - Слово.
 . - Знак пунктуации.
-Предложение: The prince climbed up eagerly, only to be confronted with the wicked witch. 
+Предложение: Implemented new C# class library for the SQL server database access layer, and updated previous web page frameworks.    
 Состоит из следующих языковых единиц:
-The - Слово.
-prince - Слово.
-climbed - Слово.
-up - Слово.
-eagerly - Слово.
-, - Знак пунктуации.
-only - Слово.
-to - Слово.
-be - Слово.
-confronted - Слово.
-with - Слово.
-the - Слово.
-wicked - Слово.
-witch - Слово.
-. - Знак пунктуации.
-Предложение: "Aha," she cackled, "so you are the visitor who has been coming to see my little Rapunzel. 
-Состоит из следующих языковых единиц:
-" - Знак пунктуации.
-Aha - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-she - Слово.
-cackled - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-so - Слово.
-you - Слово.
-are - Слово.
-the - Слово.
-visitor - Слово.
-who - Слово.
-has - Слово.
-been - Слово.
-coming - Слово.
-to - Слово.
-see - Слово.
-my - Слово.
-little - Слово.
-Rapunzel - Слово.
-. - Знак пунктуации.
-Предложение: I will make sure you won't see her again," and she tried to scratch out his eyes.The prince jumped out of the high window but was not killed for he landed in a clump of thorny bushes. 
-Состоит из следующих языковых единиц:
-I - Слово.
-will - Слово.
-make - Слово.
-sure - Слово.
-you - Слово.
-won't - Слово.
-see - Слово.
-her - Слово.
-again - Слово.
-, - Знак пунктуации.
-" - Знак пунктуации.
-and - Слово.
-she - Слово.
-tried - Слово.
-to - Слово.
-scratch - Слово.
-out - Слово.
-his - Слово.
-eyes - Слово.
-. - Знак пунктуации.
-The - Слово.
-prince - Слово.
-jumped - Слово.
-out - Слово.
-of - Слово.
-the - Слово.
-high - Слово.
-window - Слово.
-but - Слово.
-was - Слово.
-not - Слово.
-killed - Слово.
-for - Слово.
-he - Слово.
-landed - Слово.
-in - Слово.
-a - Слово.
-clump - Слово.
-of - Слово.
-thorny - Слово.
-bushes - Слово.
-. - Знак пунктуации.
-Предложение: His face, however, was badly scratched and his eyes hurt so that he could not see and he stumbled off blindly into the forest.After several days of wandering and suffering, he heard a voice singing. 
-Состоит из следующих языковых единиц:
-His - Слово.
-face - Слово.
-, - Знак пунктуации.
-however - Слово.
-, - Знак пунктуации.
-was - Слово.
-badly - Слово.
-scratched - Слово.
-and - Слово.
-his - Слово.
-eyes - Слово.
-hurt - Слово.
-so - Слово.
-that - Слово.
-he - Слово.
-could - Слово.
-not - Слово.
-see - Слово.
-and - Слово.
-he - Слово.
-stumbled - Слово.
-off - Слово.
-blindly - Слово.
-into - Слово.
-the - Слово.
-forest - Слово.
-. - Знак пунктуации.
-After - Слово.
-several - Слово.
-days - Слово.
-of - Слово.
-wandering - Слово.
-and - Слово.
-suffering - Слово.
-, - Знак пунктуации.
-he - Слово.
-heard - Слово.
-a - Слово.
-voice - Слово.
-singing - Слово.
-. - Знак пунктуации.
-Предложение: Following the sound he drew closer and realized he had found Rapunzel, who was singing as she worked to make a home for herself in the forest. 
-Состоит из следующих языковых единиц:
-Following - Слово.
-the - Слово.
-sound - Слово.
-he - Слово.
-drew - Слово.
-closer - Слово.
-and - Слово.
-realized - Слово.
-he - Слово.
-had - Слово.
-found - Слово.
-Rapunzel - Слово.
-, - Знак пунктуации.
-who - Слово.
-was - Слово.
-singing - Слово.
-as - Слово.
-she - Слово.
-worked - Слово.
-to - Слово.
-make - Слово.
-a - Слово.
-home - Слово.
-for - Слово.
-herself - Слово.
-in - Слово.
-the - Слово.
-forest - Слово.
-. - Знак пунктуации.
-Предложение: He ran towards her, calling her name, and she came and kissed him. 
-Состоит из следующих языковых единиц:
-He - Слово.
-ran - Слово.
-towards - Слово.
-her - Слово.
-, - Знак пунктуации.
-calling - Слово.
-her - Слово.
-name - Слово.
-, - Знак пунктуации.
-and - Слово.
-she - Слово.
-came - Слово.
-and - Слово.
-kissed - Слово.
-him - Слово.
-. - Знак пунктуации.
-Предложение: As she did so, his eyes were healed and he could see again.The prince took Rapunzel to his father's palace where he told his story. 
-Состоит из следующих языковых единиц:
-As - Слово.
-she - Слово.
-did - Слово.
-so - Слово.
-, - Знак пунктуации.
-his - Слово.
-eyes - Слово.
-were - Слово.
-healed - Слово.
-and - Слово.
-he - Слово.
-could - Слово.
-see - Слово.
-again - Слово.
-. - Знак пунктуации.
-The - Слово.
-prince - Слово.
-took - Слово.
-Rapunzel - Слово.
-to - Слово.
-his - Слово.
-father's - Слово.
-palace - Слово.
-where - Слово.
-he - Слово.
-told - Слово.
-his - Слово.
-story - Слово.
-. - Знак пунктуации.
-Предложение: Rapunzel was reunited with her parents who were overjoyed to see their daughter again and a proclamation was made banning the witch from the kingdom. 
-Состоит из следующих языковых единиц:
-Rapunzel - Слово.
-was - Слово.
-reunited - Слово.
-with - Слово.
-her - Слово.
-parents - Слово.
-who - Слово.
-were - Слово.
-overjoyed - Слово.
-to - Слово.
-see - Слово.
-their - Слово.
-daughter - Слово.
-again - Слово.
-and - Слово.
-a - Слово.
-proclamation - Слово.
-was - Слово.
-made - Слово.
-banning - Слово.
-the - Слово.
-witch - Слово.
-from - Слово.
-the - Слово.
-kingdom - Слово.
-. - Знак пунктуации.
-Предложение: Then a grand wedding took place. 
-Состоит из следующих языковых единиц:
-Then - Слово.
-a - Слово.
-grand - Слово.
-wedding - Слово.
-took - Слово.
-place - Слово.
-. - Знак пунктуации.
-Предложение: Rapunzel married the prince and lived with him for many years. 
-Состоит из следующих языковых единиц:
-Rapunzel - Слово.
-married - Слово.
-the - Слово.
-prince - Слово.
-and - Слово.
-lived - Слово.
-with - Слово.
-him - Слово.
-for - Слово.
-many - Слово.
-years - Слово.
-. - Знак пунктуации.
-Предложение: As for the witch, she was never seen again.
-Состоит из следующих языковых единиц:
-As - Слово.
+Implemented - Слово.
+new - Слово.
+C - Слово.
+# - Знак пунктуации.
+class - Слово.
+library - Слово.
 for - Слово.
 the - Слово.
-witch - Слово.
+SQL - Слово.
+server - Слово.
+database - Слово.
+access - Слово.
+layer - Слово.
 , - Знак пунктуации.
-she - Слово.
-was - Слово.
-never - Слово.
-seen - Слово.
-again - Слово.
+and - Слово.
+updated - Слово.
+previous - Слово.
+web - Слово.
+page - Слово.
+frameworks - Слово.
 . - Знак пунктуации.

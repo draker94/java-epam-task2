@@ -1,13 +1,14 @@
 package by.training.command;
 
+import by.training.domain.Sentence;
 import by.training.domain.Text;
-import by.training.domain.abstractions.LanguageUnit;
 import by.training.model.LookService;
 import by.training.model.io.FileIO;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class TextIOFileCommand {
-
     private FileIO fileIO;
 
     public Text read(String relativePath) {
@@ -20,16 +21,16 @@ public class TextIOFileCommand {
 
     public void writeDuplicate(String relativePath, Text text) {
         LookService lookService = new LookService();
-        List<LanguageUnit> sentences = lookService.DuplicateSentences(text);
+        List<Sentence> sentences = lookService.DuplicateWordsSentence(text);
         fileIO = new FileIO();
-        System.out.println("Попытка записи предложений текста, в которых есть одинаковые слова в файд - "
+        System.out.println("Попытка записи предложений максимального колличества предложений текста с повторяющимися словами - "
         + relativePath);
         fileIO.write(relativePath, sentences, true);
         System.out.println("Текст успешно записан!");
     }
 
     public void writeParsedText(String relativePath, Text text) {
-        List<LanguageUnit> sentences = text.getComponentsList();
+        List<Sentence> sentences = (ArrayList)text.getComponentsList();
         fileIO = new FileIO();
         System.out.println("Попытка записи текста, обработанного по языковым единицам в файл - "
                 + relativePath);

@@ -2,12 +2,14 @@ package by.training.domain;
 
 import by.training.domain.abstractions.ComplexUnit;
 import by.training.domain.abstractions.LanguageUnit;
+
 import java.text.BreakIterator;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 
 public class Text extends ComplexUnit {
-
     public Text(String unit) {
         super(unit);
     }

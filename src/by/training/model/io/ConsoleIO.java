@@ -8,7 +8,6 @@ import java.io.*;
 import java.util.List;
 
 public class ConsoleIO {
-
     public Text read() {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
             StringBuilder stringBuilder = new StringBuilder();
@@ -26,13 +25,13 @@ public class ConsoleIO {
         }
     }
 
-    public void write(List<LanguageUnit> sentences, boolean isDuplicate) {
+    public void write(List<Sentence> sentences, boolean isDuplicate) {
         if (isDuplicate) {
             System.out.println("Предложения текста, в которых есть одинаковые слова: ");
             sentences.forEach(sentence -> System.out.println(sentence.getUnitString()));
         } else {
             System.out.println("Обработка текста по языковым единицам: ");
-            sentences.forEach(sentence -> System.out.println(ComplexUnitInfo.printFullInfo((Sentence) sentence)));
+            sentences.forEach(sentence -> System.out.println(ComplexUnitInfo.printFullInfo(sentence)));
         }
     }
 }

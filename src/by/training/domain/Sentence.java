@@ -7,7 +7,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Sentence extends ComplexUnit {
-
     public Sentence(String unit) {
         super(unit);
     }

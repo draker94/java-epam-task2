@@ -8,7 +8,6 @@ import java.io.*;
 import java.util.List;
 
 public class FileIO {
-
     public Text read(String path) {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(path))) {
             StringBuilder stringBuilder = new StringBuilder();
@@ -25,18 +24,18 @@ public class FileIO {
         }
     }
 
-    public void write(String path, List<LanguageUnit> sentences, boolean isDuplicate) {
+    public void write(String path, List<Sentence> sentences, boolean isDuplicate) {
         try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(path))) {
             if (isDuplicate) {
                 bufferedWriter.write("Предложения текста, в которых есть одинаковые слова: " + System.lineSeparator());
-                for (LanguageUnit unit : sentences) {
+                for (Sentence unit : sentences) {
                     bufferedWriter.write(unit.getUnitString() + System.lineSeparator());
                 }
             }
             else {
                 bufferedWriter.write("Разбор предложения по языковым единицам: " + System.lineSeparator());
-                for (LanguageUnit unit : sentences) {
-                    bufferedWriter.write(ComplexUnitInfo.printFullInfo((Sentence)unit));
+                for (Sentence unit : sentences) {
+                    bufferedWriter.write(ComplexUnitInfo.printFullInfo(unit));
                 }
             }
         } catch (IOException e) {
