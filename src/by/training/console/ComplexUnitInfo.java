@@ -14,7 +14,7 @@ public class ComplexUnitInfo {
             unitFullInfo.append("Предложение: ");
         }
         else if (complexUnit instanceof Text) {
-            unitFullInfo.append("Текст: ");
+            unitFullInfo.append("Текст (оригинал): ");
         }
         unitFullInfo.append(complexUnit.getUnitString()).append(System.lineSeparator()).append("Состоит из следующих языковых единиц:");
         for(LanguageUnit unit : complexUnit.getComponentsList()) {

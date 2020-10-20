@@ -1,5 +1,5 @@
 Разбор предложения по языковым единицам: 
-Предложение: ﻿Location: Polotsk, Vitebsk Region  E-MAIL: dreadnought1125@gmail.com  PHONE: +375(29)814-38-18  Skype: live:.cid.36ba3112f572f7d6  DATE OF BIRTH: 31.03.1994  MARITAL STATUS: single    8+ of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. 
+Предложение: ﻿Location: Polotsk, Vitebsk Region
 Состоит из следующих языковых единиц:
 Location - Слово.
 : - Знак пунктуации.
@@ -7,12 +7,18 @@ Polotsk - Слово.
 , - Знак пунктуации.
 Vitebsk - Слово.
 Region - Слово.
+Предложение: E-MAIL: dreadnought1125@gmail.com
+Состоит из следующих языковых единиц:
 E-MAIL - Слово.
 : - Знак пунктуации.
 dreadnought1125@gmail.com - Слово.
+Предложение: PHONE: +375(29)814-38-18
+Состоит из следующих языковых единиц:
 PHONE - Слово.
 : - Знак пунктуации.
 +375(29)814-38-18 - Слово.
+Предложение: Skype: live:.cid.36ba3112f572f7d6
+Состоит из следующих языковых единиц:
 Skype - Слово.
 : - Знак пунктуации.
 live - Слово.
@@ -21,6 +27,8 @@ live - Слово.
 cid - Слово.
 . - Знак пунктуации.
 36ba3112f572f7d6 - Слово.
+Предложение: DATE OF BIRTH: 31.03.1994!!
+Состоит из следующих языковых единиц:
 DATE - Слово.
 OF - Слово.
 BIRTH - Слово.
@@ -30,10 +38,44 @@ BIRTH - Слово.
 03 - Слово.
 . - Знак пунктуации.
 1994 - Слово.
+! - Знак пунктуации.
+! - Знак пунктуации.
+Предложение: MARITAL STATUS: single
+Состоит из следующих языковых единиц:
 MARITAL - Слово.
 STATUS - Слово.
 : - Знак пунктуации.
 single - Слово.
+Предложение: Test double sentence la la la la la la la la la la la la la la la la la la la la la la.
+Состоит из следующих языковых единиц:
+Test - Слово.
+double - Слово.
+sentence - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+la - Слово.
+. - Знак пунктуации.
+Предложение: 8+ of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills.
+Состоит из следующих языковых единиц:
 8 - Слово.
 of - Слово.
 experience - Слово.
@@ -52,7 +94,7 @@ and - Слово.
 technology - Слово.
 skills - Слово.
 . - Знак пунктуации.
-Предложение: Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. 
+Предложение: Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale.
 Состоит из следующих языковых единиц:
 Proven - Слово.
 ability - Слово.
@@ -72,7 +114,7 @@ designs - Слово.
 to - Слово.
 scale - Слово.
 . - Знак пунктуации.
-Предложение: Extensive expertise in large system architecture development and administration, as well as network design and configuration.    
+Предложение: Extensive expertise in large system architecture development and administration, as well as network design and configuration.
 Состоит из следующих языковых единиц:
 Extensive - Слово.
 expertise - Слово.
@@ -92,12 +134,11 @@ design - Слово.
 and - Слово.
 configuration - Слово.
 . - Знак пунктуации.
-Предложение: SENIOR PROGRAMMER.  
+Предложение: SENIOR PROGRAMMER
 Состоит из следующих языковых единиц:
 SENIOR - Слово.
 PROGRAMMER - Слово.
-. - Знак пунктуации.
-Предложение: E-Commerce Agency / San Bruno, CA / June 2010 – August 2013. 
+Предложение: E-Commerce Agency / San Bruno, CA / June 2010 – August 2013.
 Состоит из следующих языковых единиц:
 E-Commerce - Слово.
 Agency - Слово.
@@ -113,7 +154,7 @@ June - Слово.
 August - Слово.
 2013 - Слово.
 . - Знак пунктуации.
-Предложение: Successfully generated back-end programming utilizing LAMP stack; Linux (CentOS 5/Redhat), Apache with Kohana 2, PHP 5, CSS, JavaScript/jQuery, and MySQL frameworks.Created e-commerce sites integrated with PayPal, Authorize.net, and other payment APIs.  
+Предложение: Successfully generated back-end programming utilizing LAMP stack; Linux (CentOS 5/Redhat), Apache with Kohana 2, PHP 5, CSS, JavaScript/jQuery, and MySQL frameworks.
 Состоит из следующих языковых единиц:
 Successfully - Слово.
 generated - Слово.
@@ -145,6 +186,8 @@ and - Слово.
 MySQL - Слово.
 frameworks - Слово.
 . - Знак пунктуации.
+Предложение: Created e-commerce sites integrated with PayPal, Authorize.net, and other payment APIs.
+Состоит из следующих языковых единиц:
 Created - Слово.
 e-commerce - Слово.
 sites - Слово.
@@ -161,7 +204,7 @@ other - Слово.
 payment - Слово.
 APIs - Слово.
 . - Знак пунктуации.
-Предложение: Provided leadership as a subject matter expert (SME) on hosting issues, client and staff logins, and general upgrades/maintenance of servers.  
+Предложение: Provided leadership as a subject matter expert (SME) on hosting issues, client and staff logins, and general upgrades/maintenance of servers.
 Состоит из следующих языковых единиц:
 Provided - Слово.
 leadership - Слово.
@@ -188,7 +231,7 @@ upgrades/maintenance - Слово.
 of - Слово.
 servers - Слово.
 . - Знак пунктуации.
-Предложение: Implemented new C# class library for the SQL server database access layer, and updated previous web page frameworks.    
+Предложение: Implemented new C# class library for the SQL server database access layer, and updated previous web page frameworks la.
 Состоит из следующих языковых единиц:
 Implemented - Слово.
 new - Слово.
@@ -210,4 +253,5 @@ previous - Слово.
 web - Слово.
 page - Слово.
 frameworks - Слово.
+la - Слово.
 . - Знак пунктуации.

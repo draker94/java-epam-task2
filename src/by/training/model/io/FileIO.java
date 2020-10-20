@@ -3,7 +3,6 @@ package by.training.model.io;
 import by.training.console.ComplexUnitInfo;
 import by.training.domain.Sentence;
 import by.training.domain.Text;
-import by.training.domain.abstractions.LanguageUnit;
 import java.io.*;
 import java.util.List;
 
@@ -13,7 +12,7 @@ public class FileIO {
             StringBuilder stringBuilder = new StringBuilder();
             String str;
             while ((str = bufferedReader.readLine()) != null) {
-                stringBuilder.append(str);
+                stringBuilder.append(str).append(System.getProperty("line.separator"));
             }
             System.out.println("Текст успешно загружен");
             return new Text(stringBuilder.toString());
@@ -27,7 +26,7 @@ public class FileIO {
     public void write(String path, List<Sentence> sentences, boolean isDuplicate) {
         try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(path))) {
             if (isDuplicate) {
-                bufferedWriter.write("Предложения текста, в которых есть одинаковые слова: " + System.lineSeparator());
+                bufferedWriter.write("Предложения текста, в которых есть одинаковые слова (наибольшее колличество): " + System.lineSeparator());
                 for (Sentence unit : sentences) {
                     bufferedWriter.write(unit.getUnitString() + System.lineSeparator());
                 }

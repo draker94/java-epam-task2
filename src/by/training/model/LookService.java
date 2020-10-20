@@ -12,27 +12,28 @@ public class LookService {
     public List<Sentence> DuplicateWordsSentence(Text text) {
         List<Sentence> duplicateSentences = new ArrayList<>();
         List<Sentence> textSentences = (ArrayList)text.getComponentsList();
-        Map<Word, Integer> repeatingWords = new HashMap<>();
+        Map<String, Integer> repeatingWords = new HashMap<>();
         for (Sentence sentence : textSentences) {
-            List<LanguageUnit> words = sentence.getComponentsList();
+            Set<LanguageUnit> words = new HashSet<>(sentence.getComponentsList());
             words.removeIf(unit -> unit instanceof PunctuationMark);
             for (LanguageUnit word : words) {
-                if (repeatingWords.containsKey((Word) word)) {
-                    repeatingWords.put((Word) word, repeatingWords.get(word) + 1);
+                String stringWord = word.getUnitString().toLowerCase();
+                if (repeatingWords.containsKey(stringWord)) {
+                    repeatingWords.put(stringWord, repeatingWords.get(stringWord) + 1);
                 } else {
-                    repeatingWords.put((Word) word, 1);
+                    repeatingWords.put(stringWord, 1);
                 }
             }
         }
-        Map.Entry<Word, Integer> mostRepeatingWord = null;
-        for (Map.Entry<Word, Integer> entry : repeatingWords.entrySet()) {
+        Map.Entry<String, Integer> mostRepeatingWord = null;
+        for (Map.Entry<String, Integer> entry : repeatingWords.entrySet()) {
             if (mostRepeatingWord == null || entry.getValue() > mostRepeatingWord.getValue()) {
                 mostRepeatingWord = entry;
             }
         }
         for (Sentence sentence : textSentences) {
             assert mostRepeatingWord != null;
-            if (sentence.getComponentsList().contains(mostRepeatingWord.getKey())) {
+            if (sentence.getComponentsList().contains(new Word(mostRepeatingWord.getKey()))) {
                 duplicateSentences.add(sentence);
             }
         }

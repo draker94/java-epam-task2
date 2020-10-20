@@ -3,7 +3,6 @@ package by.training.model.io;
 import by.training.console.ComplexUnitInfo;
 import by.training.domain.Sentence;
 import by.training.domain.Text;
-import by.training.domain.abstractions.LanguageUnit;
 import java.io.*;
 import java.util.List;
 
@@ -13,7 +12,7 @@ public class ConsoleIO {
             StringBuilder stringBuilder = new StringBuilder();
             String str;
             while (!((str = reader.readLine()).equalsIgnoreCase("конец"))) {
-                stringBuilder.append(str);
+                stringBuilder.append(str).append(System.getProperty("line.separator"));
             }
             Text text = new Text(stringBuilder.toString());
             System.out.println("Текст успешно загружен");
@@ -27,7 +26,7 @@ public class ConsoleIO {
 
     public void write(List<Sentence> sentences, boolean isDuplicate) {
         if (isDuplicate) {
-            System.out.println("Предложения текста, в которых есть одинаковые слова: ");
+            System.out.println("Предложения текста, в которых есть одинаковые слова (наибольшее колличество): ");
             sentences.forEach(sentence -> System.out.println(sentence.getUnitString()));
         } else {
             System.out.println("Обработка текста по языковым единицам: ");

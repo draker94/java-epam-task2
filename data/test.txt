@@ -1,14 +1,17 @@
-﻿Location: Polotsk, Vitebsk Region
+﻿Location: Polotsk, Vitebsk       Region
 E-MAIL: dreadnought1125@gmail.com
 PHONE: +375(29)814-38-18
 Skype: live:.cid.36ba3112f572f7d6
-DATE OF BIRTH: 31.03.1994
+DATE OF     BIRTH: 31.03.1994!!
 MARITAL STATUS: single
+
+
+Test double sentence la la la la la la la la la la la la la la la la la la la la la la.
 
 8+ of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
 
-SENIOR PROGRAMMER.
-E-Commerce Agency / San Bruno, CA / June 2010 – August 2013. Successfully generated back-end programming utilizing LAMP stack; Linux (CentOS 5/Redhat), Apache with Kohana 2, PHP 5, CSS, JavaScript/jQuery, and MySQL frameworks.Created e-commerce sites integrated with PayPal, Authorize.net, and other payment APIs.
+SENIOR PROGRAMMER
+E-Commerce Agency / San Bruno, CA / June 2010 – August 2013.         Successfully generated back-end programming utilizing LAMP stack; Linux (CentOS 5/Redhat), Apache with Kohana 2, PHP 5, CSS, JavaScript/jQuery, and MySQL frameworks.     Created e-commerce sites integrated with PayPal, Authorize.net, and other payment APIs.
 Provided leadership as a subject matter expert (SME) on hosting issues, client and staff logins, and general upgrades/maintenance of servers.
-Implemented new C# class library for the SQL server database access layer, and updated previous web page frameworks.
+Implemented new C# class library for the SQL server database access layer, and updated previous web page frameworks la.
 

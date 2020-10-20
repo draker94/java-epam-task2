@@ -4,6 +4,7 @@ import by.training.command.TextIOConsoleCommand;
 import by.training.command.TextIOFileCommand;
 import by.training.console.ComplexUnitInfo;
 import by.training.domain.Text;
+import by.training.domain.Word;
 
 
 public class WordProcessor {

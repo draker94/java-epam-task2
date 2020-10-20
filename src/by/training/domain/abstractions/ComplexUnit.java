@@ -20,7 +20,7 @@ public abstract class ComplexUnit implements LanguageUnit {
 
     @Override
     public String getUnitString() {
-        return unit.replaceAll(" +|\\s", " ");
+        return unit;
     }
 
     public void setComponentsList(List<LanguageUnit> componentsList) {
@@ -36,7 +36,7 @@ public abstract class ComplexUnit implements LanguageUnit {
 
         ComplexUnit that = (ComplexUnit) o;
 
-        if (unit != null ? !unit.equals(that.unit) : that.unit != null) return false;
+        if (unit != null ? !unit.equalsIgnoreCase(that.unit) : that.unit != null) return false;
         return componentsList != null ? componentsList.equals(that.componentsList) : that.componentsList == null;
     }
 
