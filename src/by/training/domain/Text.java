@@ -6,7 +6,6 @@ import by.training.domain.abstractions.LanguageUnit;
 import java.util.*;
 import java.util.regex.Pattern;
 
-
 public class Text extends ComplexUnit {
     public Text(String unit) {
         super(unit);
@@ -19,11 +18,11 @@ public class Text extends ComplexUnit {
         } else {
             Scanner scanner = new Scanner(unit);
             componentsList = new ArrayList<>();
-            Pattern pattern = Pattern.compile("[.]\\h+|\\v+|[!?]+", Pattern.UNICODE_CHARACTER_CLASS);
-            scanner.useDelimiter(pattern);
+            Pattern patternDelimiter = Pattern.compile("[.]\\h+|\\v+|[!?]+", Pattern.UNICODE_CHARACTER_CLASS);
+            scanner.useDelimiter(patternDelimiter);
             while (scanner.hasNext()) {
                 String str = (scanner.next()).replaceAll("[\\t\\s]{2,}", " ").trim();
-                String strDelimiter = scanner.findInLine(pattern);
+                String strDelimiter = scanner.findInLine(patternDelimiter);
                 if (strDelimiter == null) {
                     componentsList.add(new Sentence(str));
                 } else {

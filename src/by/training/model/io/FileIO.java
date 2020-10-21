@@ -3,6 +3,7 @@ package by.training.model.io;
 import by.training.console.ComplexUnitInfo;
 import by.training.domain.Sentence;
 import by.training.domain.Text;
+
 import java.io.*;
 import java.util.List;
 
@@ -14,7 +15,6 @@ public class FileIO {
             while ((str = bufferedReader.readLine()) != null) {
                 stringBuilder.append(str).append(System.getProperty("line.separator"));
             }
-            System.out.println("Текст успешно загружен");
             return new Text(stringBuilder.toString());
         } catch (IOException e) {
             System.out.println("Во время загрузки текста произошла ошибка!");

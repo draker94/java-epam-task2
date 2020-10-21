@@ -20,9 +20,7 @@ public abstract class SimpleUnit implements LanguageUnit {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof SimpleUnit)) return false;
-
         SimpleUnit that = (SimpleUnit) o;
-
         return unit != null ? unit.equals(that.unit) : that.unit == null;
     }
 

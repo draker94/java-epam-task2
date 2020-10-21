@@ -5,15 +5,15 @@ import by.training.domain.Sentence;
 import by.training.domain.Text;
 import by.training.domain.Word;
 import by.training.domain.abstractions.LanguageUnit;
-import java.util.*;
 
+import java.util.*;
 
 public class LookService {
     public List<Sentence> DuplicateWordsSentence(Text text) {
-        List<Sentence> duplicateSentences = new ArrayList<>();
-        List<Sentence> textSentences = (ArrayList)text.getComponentsList();
+        List<Sentence> duplicateWordsSentences = new ArrayList<>();
+        List<Sentence> textAllSentences = (ArrayList)text.getComponentsList();
         Map<String, Integer> repeatingWords = new HashMap<>();
-        for (Sentence sentence : textSentences) {
+        for (Sentence sentence : textAllSentences) {
             Set<LanguageUnit> words = new HashSet<>(sentence.getComponentsList());
             words.removeIf(unit -> unit instanceof PunctuationMark);
             for (LanguageUnit word : words) {
@@ -31,12 +31,12 @@ public class LookService {
                 mostRepeatingWord = entry;
             }
         }
-        for (Sentence sentence : textSentences) {
+        for (Sentence sentence : textAllSentences) {
             assert mostRepeatingWord != null;
             if (sentence.getComponentsList().contains(new Word(mostRepeatingWord.getKey()))) {
-                duplicateSentences.add(sentence);
+                duplicateWordsSentences.add(sentence);
             }
         }
-        return duplicateSentences;
+        return duplicateWordsSentences;
     }
 }

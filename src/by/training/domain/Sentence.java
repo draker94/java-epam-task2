@@ -2,12 +2,13 @@ package by.training.domain;
 
 import by.training.domain.abstractions.ComplexUnit;
 import by.training.domain.abstractions.LanguageUnit;
+
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Sentence extends ComplexUnit {
-    public Sentence(String unit) {
+    Sentence(String unit) {
         super(unit);
     }
 

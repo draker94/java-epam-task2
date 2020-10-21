@@ -33,9 +33,7 @@ public abstract class ComplexUnit implements LanguageUnit {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof ComplexUnit)) return false;
-
         ComplexUnit that = (ComplexUnit) o;
-
         if (unit != null ? !unit.equalsIgnoreCase(that.unit) : that.unit != null) return false;
         return componentsList != null ? componentsList.equals(that.componentsList) : that.componentsList == null;
     }
